@@ -30,9 +30,23 @@ shoe_inventory["Yeezy"] += 7
 shoe_inventory["Foamposite"] += 7
 shoe_inventory["Air Max"] += 7
 shoe_inventory["SB Dunk"] += 7
+print(shoe_inventory)
 
+#STEP VII
 shoe_inventory["Jordan 13"] -= 3
 shoe_inventory["Yeezy"] -= 3
 shoe_inventory["Foamposite"] -= 3
 shoe_inventory["Air Max"] -= 3
 shoe_inventory["SB Dunk"] -= 3
+print(shoe_inventory)
+
+#STEP VIII
+shoe_inventory["Reebok Club"] = 7
+shoe_inventory["Converse Chuck"] = 15
+shoe_inventory["Crocs"] = 17
+print(shoe_inventory)
+
+#STEP IX
+del shoe_inventory["Foamposite"]
+del shoe_inventory["SB Dunk"]
+print(shoe_inventory)
