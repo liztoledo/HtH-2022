@@ -1,13 +1,19 @@
 # About this data ...
-Given the fast pace that much of our society moves at today, not many people are being mindful of their sleeping habits. There are countless studies and technologies focused on the relationship between sleep and other parts of our health. One major topic is the analysis of physiological changes that occur while sleeping. The "SayoPillow.csv" dataset highlights various parameters such as the sleeper's snoring range, respiration rate, body temperature, limb movements, blood oxygen levels, eye movements, sleep duration, heart rate and stress levels.
+All the songs that made it on the Top 200 Charts List from 2020 to 2021 on the Spotify streaming service. 
+The Top 200 is a daily list of the platform's most streamed songs.
 
-“ If you are using this dataset or found any of this information contributing towards your research, please cite:
-
-L. Rachakonda, A. K. Bapatla, S. P. Mohanty, and E. Kougianos, “SaYoPillow: Blockchain-Integrated Privacy-Assured IoMT Framework for Stress Management Considering Sleeping Habits”, IEEE Transactions on Consumer Electronics (TCE), Vol. 67, No. 1, Feb 2021, pp. 20-29.
-
-L. Rachakonda, S. P. Mohanty, E. Kougianos, K. Karunakaran, and M. Ganapathiraju, “Smart-Pillow: An IoT based Device for Stress Detection Considering Sleeping Habits”, in Proceedings of the 4th IEEE International Symposium on Smart Electronic Systems (iSES), 2018, pp. 161--166. “
 
 # Why am I interested ...
-I have always personally struggled with maintaining proper sleeping habits. Most nights, I do not get the recommended 8+ hours of sleep. It is also suggested to go to bed at the same time every night. This is also something that I am not the best at. Learning more about how sleep affects stress could be the motivation I need to train myself for proper slumbers!
+I have always been a music enthusiast from a young age. Even now as a young adult, I find myself listening to music all the time or curating very specific playlists for fun. I have always wondered what determines which songs receive awards too, so I would like to find out the different metrics that explains why detail and talent overpowers music popularity.
 
 # Questions I have on the data
+1. Which latin artists made it on the charts the fastest since their songs' release date? Include the song titles.¶
+2. What was the popularity of those songs?
+3. During which months were the top 200 charting latin songs released?
+4. Which latin songs charted during the summer months?
+5.Which of above songs are the top 5 highest in popularity and danceability?
+6. Which genres are the 5 highest ranked in popularity during the summer months?
+7. Which artist popped up on the 200 charts the most? What was the duration of their longest song?
+8. Does a higher danceability score have a relationship to popularity?
+9. Based on the highest streaming songs, what chords were most popular?
+10. Do songs with lower instumentalness values chart lower or have lower streams?
